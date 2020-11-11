@@ -1,23 +1,20 @@
-NoSQL: Fitness Tracker 
+# Fitness Tracker
+Allows the user to track a workout. Various attributes of the workout can be stored. The workouts are saved in a Mongo database.
 
-I have created a Mongo DB database with a Mongoose schema and handle routes with Express.
-A Node CLI that takes employee information and generates an HTML summary page.
+## Description 
+Created a fitness tracking app utilizing Node.js, Express.js, MongoDB, Heroku and Mongoose. Majority of the front end code was provided in a homework prompt as part of a web development boot camp. Allows the user to track their workouts and save them in a database.
 
-User should be able to view, create and track daily workouts. Users should also be able to log multiple exercises in a workout on a given day and to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise the distance travelled should be able to be tracked. 
+## Live site: 
 
 
-https://github.com/cyraneous/hwk-17-NoSQL
+## Images
+Image of main view:
+![Image of user's view when you visit the site](./public/images/main-view.png)
 
-Tests
+Image of adding exercises:
+![Image of user's view when adding an exercise](./public/images/exercise-view.png)
 
-![Alt-text](https://github.com/cyraneous/hwk-10-template-engine/blob/master/assets/Tests.JPG)
-
-Output
-
-![Alt-text](https://github.com/cyraneous/hwk-10-template-engine/blob/master/assets/Output.JPG)
-
-Example Usage
-
-![Alt-text](https://github.com/cyraneous/hwk-10-template-engine/blob/master/assets/HWK-10-GIF.gif)
+Image of Workout Dashboard
+![Image of user's view when looking at the Workout Dashboard](./public/images/workout-dashboard.png)
 
 
