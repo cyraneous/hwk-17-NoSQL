@@ -1,10 +1,12 @@
-# Fitness Tracker
+Fitness Tracker
+
 Allows the user to track a workout. Workouts can be created and added to.  
 
-## Live site: 
+Repository
 
+https://github.com/cyraneous/hwk-17-NoSQL
 
-## Images
+Images
 
 Main view:
 
