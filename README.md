@@ -6,8 +6,6 @@ Repository
 
 https://github.com/cyraneous/hwk-17-NoSQL
 
-Images
-
 
 Add exercises:
 
