@@ -8,11 +8,6 @@ https://github.com/cyraneous/hwk-17-NoSQL
 
 Images
 
-Main view:
-
-
-![Image of user's view when you visit the site](./public/images/main-view.png)
-
 
 Add exercises:
 
